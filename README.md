@@ -18,4 +18,4 @@ A simple personal portfolio page built for the INS205 assignment.
 ## How to Run with Docker
 1. Build the image:
    ```bash
-   docker build -t your-docker-id/ins205-web-app:latest .
+   docker build -t stlaurent01/ins205-web-app:latest .
